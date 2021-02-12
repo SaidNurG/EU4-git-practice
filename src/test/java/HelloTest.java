@@ -6,7 +6,9 @@ public class HelloTest {
         //we as EU4 are learning Git
         // watching more movie in bedroom
         System.out.println("Ready to go back to living room");
-        // oh i like this movie who played it? let me continue
+        // movie on the phone 10 minutes
+        // movieon the phone 20 minutes
+        // another final 10 minutes before going back to living room
 
     }
 }
